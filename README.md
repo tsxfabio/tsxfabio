@@ -3,7 +3,7 @@
 Eu sou o Leardini<br>
 Ex Gestor/Auditor de Projetos Sociais que decidiu migrar de área e hoje atua como Desenvolvedor Front-End. 
 - 💻 Onde trabalho atualmente? Na <a href="https://www.ivoryit.com.br/">Ivory IT</a> 💜.
-- 📚 O que tenho estudado? <a href="https://www.typescriptlang.org/">Typescript</a> e <a href="https://angular.io/">Angular</a>.
+- 📚 O que tenho estudado? <a href="https://www.typescriptlang.org/">Typescript</a>, <a href="https://pt-br.reactjs.org/">React</a> e <a href="https://angular.io/">Angular</a>.
 - ⚡ Fun fact? Sou bacharel em Educação Física.
 ##
 ### 🛠️ Linguagens e Ferramentas
