@@ -20,9 +20,4 @@ Ex gestor e auditor de Projetos Sociais que decidiu migrar de área e hoje atua 
 ### Onde me Achar 🧐
 <a href="https://www.linkedin.com/in/fabioleardini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@leardini.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-##
-<div align="left">
-  <a href="https://github.com/leardinifabio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leardinifabio&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leardinifabio&layout=compact&langs_count=7&theme=outrun"/>
-</div>
+
