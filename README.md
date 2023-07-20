@@ -26,6 +26,10 @@ Ex gestor e auditor de Projetos Sociais que decidiu migrar de área e hoje atua 
 ### Portfolio (em manutenção)
 
 #### DTMoney
+Plataforma de controle de finanças pessoais, onde permite inserir transações de crédito e débito, categorizar, datar e buscar.  
+A plataforma nos apresenta de forma simplificada um dashboard com as principais informações: Entradas, Saídas e Saldo.  
+
+[Link do Repositório](https://github.com/tsxfabio/dtmoney)
 
 #### Coffe Delivery
 
