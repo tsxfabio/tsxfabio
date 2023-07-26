@@ -23,15 +23,9 @@ Ex gestor e auditor de Projetos Sociais que decidiu migrar de área e hoje atua 
 <a href = "mailto:contato@leardini.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
-### Portfolio (em manutenção)
+### Portfolio (em manutenção)  
 
-#### DTMoney
-Plataforma de controle de finanças pessoais, onde permite inserir transações de crédito e débito, categorizar, datar e buscar.  
-A plataforma nos apresenta de forma simplificada um dashboard com as principais informações: Entradas, Saídas e Saldo.  
-
-[Link do Repositório](https://github.com/tsxfabio/dtmoney)
-
-#### IN8-Finance
+#### IN8-Finance  
 No mesmo modelo do DTMoney - Plataforma de controle de finanças pessoais, onde permite inserir transações de crédito e débito, categorizar, datar e buscar.
 A plataforma nos apresenta de forma simplificada um dashboard com as principais informações: Entradas, Saídas e Saldo.  
 
@@ -40,7 +34,17 @@ Como diferencial, ela foi criada utilizando NextJS, Stiches e PrimeReact (UI Com
 
 [Link do Repositório](https://github.com/tsxfabio/financas-pessoais-in8)
 
-#### Coffe Delivery
+#### Coffe Delivery  
+Desafio do segundo módulo do curso de ReactJS da Rocketseat.
+A proposta era a criação do front-end do e-commerce de uma cafeteria, seguindo à risca o layout apresentado pela equipe de design.
+
+[Link do Repositório](https://github.com/tsxfabio/ignite-coffee-delivery)
+
+#### DTMoney  
+Plataforma de controle de finanças pessoais, onde permite inserir transações de crédito e débito, categorizar, datar e buscar.  
+A plataforma nos apresenta de forma simplificada um dashboard com as principais informações: Entradas, Saídas e Saldo.  
+
+[Link do Repositório](https://github.com/tsxfabio/dtmoney)
 
 #### Timer
 
