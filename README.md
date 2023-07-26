@@ -47,6 +47,9 @@ A plataforma nos apresenta de forma simplificada um dashboard com as principais 
 [Link do Repositório](https://github.com/tsxfabio/dtmoney)
 
 #### Timer
+A aplicação tem como objetivo cumprir a função de um timer/pomodoro, entretanto é possível nomear as tarefas e ver um resumo das que já foram executadas, interrompidas e em execução. Como diferencial, a aplicação apresenta o timer em tempo real no título da aba do navegador, podendo assim navegar em outras páginas enquanto o timer é executado.  
+
+[Link do Respositório](https://github.com/tsxfabio/ignite-timer)
 
 #### TO-DO List
 
