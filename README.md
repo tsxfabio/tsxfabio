@@ -2,9 +2,8 @@
 ##
 Eu sou o Fábio Leardini<br>
 Ex gestor e auditor de Projetos Sociais que decidiu migrar de área e hoje atua como Desenvolvedor. 
-- 💻 Onde trabalho atualmente? Open to Work.
+- 💻 Onde trabalho atualmente? <a href="https://grupoq.io/">grupoQ</a>.
 - 📚 O que tenho estudado? <a href="https://pt-br.reactjs.org/">React</a> e <a href="https://nodejs.org/en/about">NodeJs</a>.
-- ⚡ Fun fact? Sou bacharel em Educação Física.
 ##
 ### 🛠️ Linguagens e Ferramentas
 <div style="display: inline_block">
