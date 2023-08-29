@@ -21,7 +21,7 @@ Ex gestor e auditor de Projetos Sociais que decidiu migrar de área e hoje atua 
 <a href = "mailto:contato@leardini.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
-### Portfolio (em manutenção)  
+### Portfolio
 
 #### IN8-Finance  
 No mesmo modelo do DTMoney - Plataforma de controle de finanças pessoais, onde permite inserir transações de crédito e débito, categorizar, datar e buscar.
@@ -48,9 +48,3 @@ A plataforma nos apresenta de forma simplificada um dashboard com as principais 
 A aplicação tem como objetivo cumprir a função de um timer/pomodoro, entretanto é possível nomear as tarefas e ver um resumo das que já foram executadas, interrompidas e em execução. Como diferencial, a aplicação apresenta o timer em tempo real no título da aba do navegador, podendo assim navegar em outras páginas enquanto o timer é executado.  
 
 [Link do Respositório](https://github.com/tsxfabio/ignite-timer)
-
-#### TO-DO List
-
-#### Desculpa Esfarrapada
-
-#### Página Pessoal
